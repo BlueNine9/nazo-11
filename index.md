@@ -4,6 +4,6 @@
 
 Go To Level 2
 
-<!-- Hello! -->
-<!-- I'm "A NEW NAZO GAME" -->
-<!-- It's happy to see you come. -->
+<!-- Sorry!! -->
+<!-- There's something wrong. -->
+<!-- Can you try to fix it? -->
